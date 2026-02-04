@@ -1,0 +1,408 @@
+{
+  "projects": [
+    {
+      "title": "Word of the Day: An Automated Linguistic Intelligence Pipeline",
+      "categories": ["AI", "AI Automation"],
+      "link": "https://krisnaverse.wordpress.com/2026/02/04/word-of-the-day-an-automated-linguistic-intelligence-pipeline/",
+      "description": "An automated AI pipeline that delivers daily vocabulary enrichment through intelligent linguistic analysis and curation."
+    },
+    {
+      "title": "AsAbove - A Sky Watching App",
+      "categories": ["AI", "App Design", "UX Design", "Vibe Coding", "Website Design"],
+      "link": "https://krisnaverse.wordpress.com/2026/01/23/vibe-coding-asabove-a-sky-app/",
+      "description": "A beautifully designed sky-watching application that helps users track celestial events, stars, and astronomical phenomena. Built with vibe coding methodology."
+    },
+    {
+      "title": "AsAbove - Live Site",
+      "categories": ["Website Design", "Vibe Coding", "Space"],
+      "link": "https://asabove4.pages.dev/",
+      "description": "The live deployed version of the AsAbove space viewing app - a fully functional website for exploring the cosmos, built with Cursor vibe coding."
+    },
+    {
+      "title": "YouTube Colab - Creation to Collaboration",
+      "categories": ["AI", "App Design", "UX Design", "Vibe Coding"],
+      "link": "https://krisnaverse.wordpress.com/2026/01/16/vibe-coding-youtube-colab-creation-to-collaboration/",
+      "description": "A collaborative platform concept that transforms YouTube from a consumption platform to a creation and collaboration hub for creators."
+    },
+    {
+      "title": "EvolveMe - The Future You App",
+      "categories": ["AI", "App Design", "UX Design", "Vibe Coding", "Website Design"],
+      "link": "https://krisnaverse.wordpress.com/2026/01/14/vibe-coding-for-evolvemethe-future-you-app/",
+      "description": "A personal growth app that visualizes your future self, helping users set and track goals for self-improvement and personal evolution."
+    },
+    {
+      "title": "YouTube Create - Consumption to Creation Figma Prototype",
+      "categories": ["AI", "App Design", "Interactive Design", "UX Design", "UX Writing", "Website Design", "Writing"],
+      "link": "https://krisnaverse.wordpress.com/2026/01/03/youtube-shorts-from-consumption-to-creation/",
+      "description": "A Figma prototype reimagining YouTube Shorts with tools that empower passive viewers to become active content creators."
+    },
+    {
+      "title": "Accessibility Focused Fast Food Kiosk",
+      "categories": ["AI", "App Design", "UX Design", "Vibe Coding", "Accessibility"],
+      "link": "https://krisnaverse.wordpress.com/2025/12/31/accessible-food-order-kiosk/",
+      "description": "An inclusive fast food ordering kiosk designed with accessibility at its core, ensuring everyone can order with ease regardless of ability."
+    },
+    {
+      "title": "Shade Match - Customized Foundation Kiosk",
+      "categories": ["AI", "App Design", "Interactive Design", "UX Design", "UX Writing", "Website Design", "Writing"],
+      "link": "https://krisnaverse.wordpress.com/2025/12/28/custom-foundation-kiosk-ux/",
+      "description": "An innovative beauty tech kiosk that uses AI to match customers with their perfect foundation shade through personalized skin analysis."
+    },
+    {
+      "title": "VenueDot - Concert Venue & Ticket Design App",
+      "categories": ["AI", "App Design", "UX Design", "Vibe Coding"],
+      "link": "https://krisnaverse.wordpress.com/2025/12/27/concert-venue-ticket-design-app/",
+      "description": "A comprehensive concert and event app combining venue exploration with seamless ticket purchasing and event discovery."
+    },
+    {
+      "title": "Grimonk - A Philosophical Game",
+      "categories": ["UX Design", "P5JS Game Dev", "UX Writing", "Writing", "JavaScript"],
+      "link": "https://krisnaverse.wordpress.com/2025/12/27/grimonk-coded-narrative-game/",
+      "description": "A thought-provoking narrative game built with P5.js that explores philosophical themes through interactive storytelling and gameplay."
+    },
+    {
+      "title": "Medieval Times - My Sleepy App",
+      "categories": ["AI", "App Design", "UX Design", "Vibe Coding"],
+      "link": "https://krisnaverse.wordpress.com/2025/12/27/medival-times-a-sleeping-app/",
+      "description": "A sleep and relaxation app themed around medieval aesthetics, featuring calming sounds and sleep stories from a bygone era."
+    },
+    {
+      "title": "InteriorEcho - Interior Design Inspiration Tool",
+      "categories": ["AI", "App Design", "UX Design", "Vibe Coding"],
+      "link": "https://krisnaverse.wordpress.com/2025/12/27/vibe-code-for-interiorecho-interior-inspiration-tool/",
+      "description": "An AI-powered interior design tool that generates room inspiration and helps users visualize their dream spaces."
+    },
+    {
+      "title": "Alrtist - AI's Art Gallery",
+      "categories": ["AI", "App Design", "UX Design", "Vibe Coding"],
+      "link": "https://krisnaverse.wordpress.com/2025/12/27/ais-art-gallery/",
+      "description": "A virtual art gallery showcasing AI-generated artwork, exploring the intersection of artificial intelligence and artistic expression."
+    },
+    {
+      "title": "3D Interactive Exoplanet Data Analysis",
+      "categories": ["Interactive Data Analysis", "R Language", "Data Visualization"],
+      "link": "https://krisnaverse.wordpress.com/2025/12/27/exoplanet-interactive-experience/",
+      "description": "An immersive 3D data visualization of exoplanets using R, allowing users to explore distant worlds through interactive analysis."
+    },
+    {
+      "title": "UX Writing - Referral Program",
+      "categories": ["UX Writing"],
+      "link": "https://krisnaverse.wordpress.com/2025/12/01/ux-writing-referral-program/",
+      "description": "A UX writing case study demonstrating effective microcopy and user-centered language for a referral program interface."
+    },
+    {
+      "title": "My Entire Short Novel for FREE",
+      "categories": ["Novel Writing", "Creative Writing"],
+      "link": "https://krisnaverse.wordpress.com/2025/11/29/my-entire-short-novel-for-free/",
+      "description": "A complete short novel available for free, showcasing narrative storytelling and creative fiction writing abilities."
+    },
+    {
+      "title": "Squirrel Dystopia - NFT Story",
+      "categories": ["Story Writing", "Creative Writing", "NFT"],
+      "link": "https://krisnaverse.wordpress.com/2025/11/29/squirrel-dystopia-nft-story/",
+      "description": "A dystopian narrative featuring squirrels, created as part of an NFT storytelling project exploring digital art narratives."
+    },
+    {
+      "title": "International Student Employee Experience at Kent State",
+      "categories": ["Article Writing", "Personal Essay"],
+      "link": "https://krisnaverse.wordpress.com/2025/10/14/my-experience-as-an-international-student-employee-at-kent-state-university/",
+      "description": "A personal article sharing insights and experiences of working as an international student employee at Kent State University."
+    },
+    {
+      "title": "Krishna's Resume",
+      "categories": ["Resume", "Professional"],
+      "link": "https://krisnaverse.wordpress.com/2025/04/07/krishnas-resume/",
+      "description": "Krishna's professional resume showcasing skills, experience, and qualifications across design, development, and creative fields."
+    },
+    {
+      "title": "Ram Das's Dialogue Sequence - Motion Design",
+      "categories": ["Motion Design", "After Effects", "Animation"],
+      "link": "https://krisnaverse.wordpress.com/2024/12/22/ram-dass-dialogue-sequence/",
+      "description": "A motion design piece featuring a dialogue sequence inspired by spiritual teacher Ram Dass, created with After Effects."
+    },
+    {
+      "title": "Metamorphosis Title Sequence - Franz Kafka",
+      "categories": ["Motion Design", "After Effects", "Animation"],
+      "link": "https://krisnaverse.wordpress.com/2024/12/22/metamorphosis-title-sequence/",
+      "description": "An evocative title sequence for Kafka's Metamorphosis, bringing the surreal transformation story to life through motion graphics."
+    },
+    {
+      "title": "Exoplanets Interactive Model and Website",
+      "categories": ["Interactive Data Analysis", "R Language", "Website Design"],
+      "link": "https://krisnaverse.wordpress.com/2024/12/22/exoplanets-interactive-model-and-website/",
+      "description": "A comprehensive web experience featuring interactive 3D models of exoplanets with detailed scientific data visualization."
+    },
+    {
+      "title": "Cultural Fabric Print",
+      "categories": ["Graphic Design", "Cultural Design"],
+      "link": "https://krisnaverse.wordpress.com/2024/11/26/cultural-fabric-print/",
+      "description": "A graphic design piece celebrating cultural heritage through intricate fabric print patterns and traditional motifs."
+    },
+    {
+      "title": "Parachute Game",
+      "categories": ["JavaScript Game Dev", "Game Development"],
+      "link": "https://krisnaverse.wordpress.com/2024/11/21/parachute-game/",
+      "description": "An engaging JavaScript-based game featuring parachute mechanics and fun gameplay challenges."
+    },
+    {
+      "title": "Lemon Peel Motion Art",
+      "categories": ["Motion Design", "After Effects", "Animation"],
+      "link": "https://krisnaverse.wordpress.com/2024/11/21/lemon-peel-motion-art/",
+      "description": "A creative motion art piece inspired by the visual poetry of lemon peels, showcasing organic animation techniques."
+    },
+    {
+      "title": "Full-Moon Party Invite",
+      "categories": ["Graphic Design", "Event Design"],
+      "link": "https://krisnaverse.wordpress.com/2024/06/30/full-moon-party-invite/",
+      "description": "A vibrant party invitation design capturing the mystical essence of a full-moon celebration."
+    },
+    {
+      "title": "Visual Portfolio (Extended)",
+      "categories": ["Visual Portfolio", "Showcase"],
+      "link": "https://krisnaverse.wordpress.com/2024/06/30/my-really-long-visual-portfolio/",
+      "description": "A comprehensive visual portfolio showcasing a wide range of design work across multiple disciplines and projects."
+    },
+    {
+      "title": "Work Locations in India",
+      "categories": ["Graphic Design", "Infographic"],
+      "link": "https://krisnaverse.wordpress.com/2024/06/30/work-locations-in-india/",
+      "description": "An informative graphic design piece mapping out work locations across India with visual storytelling elements."
+    },
+    {
+      "title": "Pool Party Banner",
+      "categories": ["Graphic Design", "Event Design"],
+      "link": "https://krisnaverse.wordpress.com/2024/06/30/pool-party-banner/",
+      "description": "A fun and refreshing banner design for a pool party event, featuring vibrant summer aesthetics."
+    },
+    {
+      "title": "3rd Culture Logo Alterations",
+      "categories": ["Graphic Design", "Logo Design", "Branding"],
+      "link": "https://krisnaverse.wordpress.com/2024/06/30/3rd-culture-logo-alterations/",
+      "description": "Logo redesign and alterations for 3rd Culture, exploring variations and refinements of the brand identity."
+    },
+    {
+      "title": "Summer Camp Employee Dress Code",
+      "categories": ["Graphic Design", "Infographic"],
+      "link": "https://krisnaverse.wordpress.com/2024/06/30/summer-camp-employee-dress-code/",
+      "description": "A clear and visually appealing dress code guide designed for summer camp employees."
+    },
+    {
+      "title": "A Subtle Reminder - Be Here Now",
+      "categories": ["Graphic Design", "Inspirational"],
+      "link": "https://krisnaverse.wordpress.com/2023/09/07/a-subtle-reminder-be-here-now/",
+      "description": "A mindful graphic design piece serving as a gentle reminder to practice presence and mindfulness."
+    },
+    {
+      "title": "Leelaghar - The Quietest Eco-Resort",
+      "categories": ["Story Writing", "Property Documentation", "Article Writing"],
+      "link": "https://krisnaverse.wordpress.com/2023/08/29/leelaghar-a-detailed-analysis/",
+      "description": "An in-depth written analysis and documentation of Leelaghar, a serene eco-resort focused on sustainable tranquility."
+    },
+    {
+      "title": "Saturday Island Cover",
+      "categories": ["Graphic Design", "Cover Art"],
+      "link": "https://krisnaverse.wordpress.com/2023/08/28/saturday-island-cover/",
+      "description": "A captivating cover design for Saturday Island, evoking tropical vibes and weekend escape energy."
+    },
+    {
+      "title": "SlaynSolo Logo",
+      "categories": ["Graphic Design", "Logo Design", "Branding"],
+      "link": "https://krisnaverse.wordpress.com/2023/08/26/slaynsolo-logo/",
+      "description": "A bold and distinctive logo design for SlaynSolo, combining edgy aesthetics with memorable branding."
+    },
+    {
+      "title": "PrimalWoke LinkedIn Post",
+      "categories": ["Graphic Design", "Social Media Writing", "Social Media"],
+      "link": "https://krisnaverse.wordpress.com/2023/08/24/primalwoke-linkedin-post/",
+      "description": "A professionally designed LinkedIn post for PrimalWoke, blending graphic design with engaging social media copy."
+    },
+    {
+      "title": "Empyreal Club Concept Award Nomination",
+      "categories": ["Presentation Design", "Award Submission"],
+      "link": "https://krisnaverse.wordpress.com/2023/08/22/empyreal-club-nomination-for-concept-award/",
+      "description": "A presentation design for Empyreal Club's concept award nomination, showcasing innovative ideas and visual storytelling."
+    },
+    {
+      "title": "3rd Culture Logo",
+      "categories": ["Graphic Design", "Logo Design", "Branding"],
+      "link": "https://krisnaverse.wordpress.com/2023/08/21/3rd-culture-logo/",
+      "description": "The original logo design for 3rd Culture, representing the brand's unique identity bridging multiple cultural perspectives."
+    },
+    {
+      "title": "Portfolio Building Workshop at Kent State University",
+      "categories": ["Workshop", "UX Design", "Portfolio Building", "Teaching"],
+      "link": "https://krisnaverse.wordpress.com/portfolio-building-workshop/",
+      "description": "A hands-on workshop Krishna led at Kent State University, teaching students how to build compelling design portfolios."
+    },
+    {
+      "title": "OnePlate - Food Recipes Website",
+      "categories": ["Website Design", "Food", "Content"],
+      "link": "https://oneplate7.wordpress.com/",
+      "description": "A beautifully designed food recipes website featuring culinary creations and cooking inspiration."
+    },
+    {
+      "title": "Traveller's Art Gallery",
+      "categories": ["Website Design", "Art Commentary", "Travel"],
+      "link": "https://moonlitpicnic-lrafu.wordpress.com/",
+      "description": "An art commentary website blending travel experiences with artistic exploration and visual storytelling."
+    },
+    {
+      "title": "DejaGames - Gaming Website",
+      "categories": ["Website Design", "Gaming"],
+      "link": "https://dejadotgames.wordpress.com/",
+      "description": "A gaming-focused website design showcasing game content and interactive entertainment experiences."
+    },
+    {
+      "title": "365 Arbitrary Thoughts - Personal Blog",
+      "categories": ["Website Design", "Personal Blog", "Writing"],
+      "link": "https://365arbitrarythoughts.wordpress.com/",
+      "description": "Krishna's personal musings blog featuring daily thoughts, reflections, and creative writing."
+    },
+    {
+      "title": "Certificates & Recommendations",
+      "categories": ["Professional", "Achievements", "Recommendations"],
+      "link": "https://krisnaverse.wordpress.com/certs/",
+      "description": "A collection of Krishna's professional certificates, achievements, recommendations, and articles showcasing her qualifications."
+    },
+    {
+      "title": "Saturday Island - Published Book on Amazon",
+      "categories": ["Published Book", "Writing", "Science Fiction"],
+      "link": "https://www.amazon.com/Saturday-Island-Space-Cadet-ebook/dp/B0BQ5B15HP/",
+      "description": "Krishna's published science fiction book 'Saturday Island' available on Amazon - a space adventure story from the Space Cadet series."
+    },
+    {
+      "title": "Intergalactic Panic - Published Book on Amazon",
+      "categories": ["Published Book", "Writing", "Science Fiction"],
+      "link": "https://www.amazon.com/Intergalactic-Panic-Space-Cadet-ebook/dp/B09V5JRND5/",
+      "description": "Krishna's published science fiction book 'Intergalactic Panic' available on Amazon - an exciting space adventure from the Space Cadet series."
+    }
+  ],
+  "categories_summary": {
+    "AI & Automation": ["AI", "AI Automation"],
+    "App & UX Design": ["App Design", "UX Design", "Interactive Design", "UX Writing", "Accessibility"],
+    "Vibe Coding": ["Vibe Coding"],
+    "Web Design": ["Website Design"],
+    "Motion & Animation": ["Motion Design", "After Effects", "Animation"],
+    "Graphic Design": ["Graphic Design", "Logo Design", "Branding", "Cover Art", "Event Design", "Infographic", "Cultural Design", "Inspirational"],
+    "Game Development": ["JavaScript Game Dev", "P5JS Game Dev", "Game Development", "JavaScript"],
+    "Data Visualization": ["Interactive Data Analysis", "R Language", "Data Visualization"],
+    "Writing": ["Writing", "UX Writing", "Novel Writing", "Story Writing", "Article Writing", "Creative Writing", "Personal Essay", "Social Media Writing"],
+    "Published Books": ["Published Book", "Science Fiction"],
+    "Professional": ["Resume", "Presentation Design", "Visual Portfolio", "Professional", "Showcase", "Award Submission", "Achievements", "Recommendations"],
+    "Workshops & Teaching": ["Workshop", "Portfolio Building", "Teaching"]
+  },
+  "krishna_resume": {
+    "contact": {
+      "phone": "234-296-3883",
+      "email": "krishnarathore0219@gmail.com",
+      "portfolio": "krisnaverse.wordpress.com"
+    },
+    "profile": "Creative UX & Digital Content Designer with 5+ years of experience across UX design and writing, content strategy, communications, and brand storytelling. Brings user experience to life through creative coding, motion design, and high-fidelity prototypes. Core values - empathy, sustainability, equity and freedom for all to live a good life.",
+    "work_experience": [
+      {
+        "title": "UX Consultant (including internship)",
+        "company": "Enventys Partners",
+        "location": "OH",
+        "dates": "June 2025 - September 2025",
+        "highlights": [
+          "Designed and refined user interfaces for a customized foundation kiosk using pre-existing design systems",
+          "Improved kiosk navigation by designing 10+ user flows through iterative Figma prototyping"
+        ]
+      },
+      {
+        "title": "Communications Manager",
+        "company": "Empyreal Club",
+        "location": "Rajasthan",
+        "dates": "January 2022 - January 2024",
+        "leadership": "Led a team of 6",
+        "highlights": [
+          "Led a cross-functional team of designers, content writers, worked parallelly with website developers",
+          "Wireframed mobile, website, and magazine UX for members",
+          "Designed and launched referral and outreach initiatives, enrolling 700 new members"
+        ]
+      },
+      {
+        "title": "SEO Content Writer",
+        "company": "Moustache Escapes",
+        "location": "Rajasthan",
+        "dates": "December 2020 - December 2021",
+        "highlights": [
+          "Wrote 56 SEO-optimized blogs placing Ladakh Bike Trips to #1 on Google search results",
+          "Worked closely with the development team on website UX"
+        ]
+      },
+      {
+        "title": "Client Relations Manager",
+        "company": "Closettrunk",
+        "location": "Gurugram",
+        "dates": "October 2019 - October 2020",
+        "highlights": [
+          "Managed client communication workflows solo while collaborating on product development",
+          "Conducted user-behaviour analysis on subscribers, created systems to optimize customer care"
+        ]
+      },
+      {
+        "title": "Freelance Designer & Writer",
+        "dates": "2020 - 2024",
+        "highlights": [
+          "UX writing, packaging design, visual and written content creation, mobile app interfaces, short-form video strategy"
+        ]
+      }
+    ],
+    "university_experience": [
+      {
+        "title": "Graduate Assistant, Supervisor",
+        "department": "Adventure Center (RecWell)",
+        "university": "Kent State University",
+        "dates": "January 2025 - August 2025",
+        "leadership": "Led a team of 20",
+        "highlights": [
+          "Planned and facilitated team-building activities for student organizations, schools, and corporates (largest group - 150)",
+          "Coordinated programs and logistics for adventure-based group experiences",
+          "Supported staff and participants to ensure safety, preparedness, and smooth operations"
+        ]
+      },
+      {
+        "title": "Crew Member",
+        "department": "Design Innovation Hub",
+        "university": "Kent State University",
+        "dates": "August 2024 - December 2024",
+        "highlights": [
+          "Supported students and faculty in using makerspace tools and prototyping equipment using UX principles",
+          "Assisted with workshops and hands-on innovation activities",
+          "Maintained a safe, inclusive, and collaborative design environment"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "MS Emerging Media & Technology",
+        "university": "Kent State University",
+        "dates": "2024-2025"
+      },
+      {
+        "degree": "MA English Literature",
+        "university": "Jaipur National University",
+        "dates": "2019-2020"
+      },
+      {
+        "degree": "BA Journalism & Mass Communication",
+        "university": "Manipal University Jaipur",
+        "dates": "2015-2019"
+      }
+    ],
+    "leadership_experience": [
+      "Leader counsellor at Peak Summer Camp, KSU (led a team of 16 counsellors)",
+      "Chief content executive, Primal Woke (led 4 interns)",
+      "Founder and ex-President of Kent Indian Dance Association (led group activities with 40 students)",
+      "Started and led NGO - Riding the Blues"
+    ],
+    "skills": [
+      "Responsive UX design",
+      "Creative Coding",
+      "Accessible, Sustainable and Equitable design",
+      "Visual Design",
+      "Motion Design"
+    ]
+  }
+}
