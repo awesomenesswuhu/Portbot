@@ -550,7 +550,7 @@
                 if (data.success) {
                     addMessage(data.response, 'grandpa');
                 } else {
-                    addMessage("Oh dear, something went wrong! Let me try again... *adjusts glasses*", 'grandpa');
+                    addMessage("Oh dear, something went wrong! Error: " + (data.error || "Unknown error") + " *adjusts glasses*", 'grandpa');
                 }
             } catch (error) {
                 typingDiv.remove();
