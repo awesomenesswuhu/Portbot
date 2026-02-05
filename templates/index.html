@@ -588,6 +588,13 @@
                 return `<a href="#" data-project-url="${url}">👉 ${linkText}</a>`;
             });
 
+            // Also catch raw URLs that aren't already in links (fallback)
+            formatted = formatted.replace(/(^|[^"'>])(https?:\/\/[^\s<]+)/g, (match, prefix, url) => {
+                // Don't double-wrap URLs that are already in data-project-url
+                if (prefix.includes('data-project-url')) return match;
+                return `${prefix}<a href="#" data-project-url="${url}">🔗 ${url.length > 50 ? url.substring(0, 50) + '...' : url}</a>`;
+            });
+
             // Convert **bold** to <strong>
             formatted = formatted.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
 
